@@ -1,0 +1,8 @@
+Example run:
+
+Enter command 1 (incl. args) or quit: ls
+Enter command 2 (incl. args): wc
+ 5 5 63
+Enter command 1 (incl. args) or quit: ls -l
+Enter command 2 (incl. args): wc -w
+47
